@@ -1,0 +1,26 @@
+<html>
+<head>
+  <title>Lanceur DICOM</title>
+  <HTA:APPLICATION
+    APPLICATIONNAME="DICOMLauncher"
+    BORDER="thin"
+    SYSMENU="yes"
+    WINDOWSTATE="normal"
+    SCROLL="no"
+    SINGLEINSTANCE="yes"
+  />
+  <script language="javascript">
+    // Path to the DICOM file:
+    var dicom = "C:\\xampp\\htdocs\\fiche patient\\dicom_images\\series-00000\\image-00000.dcm";
+    // Double-slash Windows path for file:// protocol
+    var url = "file:///" + dicom.replace(/\\/g, "/");
+    // Open with the default viewer (RadiAnt if associated)
+    window.location.href = url;
+    // Close the HTA window after a short delay:
+    setTimeout(function() { window.close(); }, 1000);
+  </script>
+</head>
+<body>
+  <p>Ouverture de l’image DICOM…</p>
+</body>
+</html>

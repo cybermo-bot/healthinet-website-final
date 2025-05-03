@@ -1,0 +1,47 @@
+[17-Apr-2025 21:46:17 UTC] Database connection failed: could not find driver
+[17-Apr-2025 21:46:17 UTC] Database connection failed: could not find driver
+[17-Apr-2025 23:46:41 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\fiche patient\includes\config.php on line 9
+[17-Apr-2025 23:46:41 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\fiche patient\includes\config.php on line 10
+[17-Apr-2025 23:46:41 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\fiche patient\includes\config.php on line 11
+[17-Apr-2025 23:46:41 Europe/Berlin] PHP Warning:  session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\fiche patient\includes\config.php on line 14
+[17-Apr-2025 23:46:41 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\fiche patient\includes\config.php on line 15
+[17-Apr-2025 23:48:31 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\fiche patient\includes\config.php on line 9
+[17-Apr-2025 23:48:31 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\fiche patient\includes\config.php on line 10
+[17-Apr-2025 23:48:31 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\fiche patient\includes\config.php on line 11
+[17-Apr-2025 23:48:31 Europe/Berlin] PHP Warning:  session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\fiche patient\includes\config.php on line 12
+[17-Apr-2025 23:48:31 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\fiche patient\includes\config.php on line 15
+[17-Apr-2025 23:48:37 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\fiche patient\includes\config.php on line 9
+[17-Apr-2025 23:48:37 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\fiche patient\includes\config.php on line 10
+[17-Apr-2025 23:48:37 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\fiche patient\includes\config.php on line 11
+[17-Apr-2025 23:48:37 Europe/Berlin] PHP Warning:  session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\fiche patient\includes\config.php on line 12
+[17-Apr-2025 23:48:37 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\fiche patient\includes\config.php on line 15
+[17-Apr-2025 23:48:46 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\fiche patient\includes\config.php on line 9
+[17-Apr-2025 23:48:46 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\fiche patient\includes\config.php on line 10
+[17-Apr-2025 23:48:46 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\fiche patient\includes\config.php on line 11
+[17-Apr-2025 23:48:46 Europe/Berlin] PHP Warning:  session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\fiche patient\includes\config.php on line 12
+[17-Apr-2025 23:48:46 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\fiche patient\includes\config.php on line 15
+[17-Apr-2025 23:49:12 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\fiche patient\includes\config.php on line 9
+[17-Apr-2025 23:49:12 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\fiche patient\includes\config.php on line 10
+[17-Apr-2025 23:49:12 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\fiche patient\includes\config.php on line 11
+[17-Apr-2025 23:49:12 Europe/Berlin] PHP Warning:  session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\fiche patient\includes\config.php on line 12
+[17-Apr-2025 23:49:12 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\fiche patient\includes\config.php on line 15
+[17-Apr-2025 23:49:16 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\fiche patient\includes\config.php on line 9
+[17-Apr-2025 23:49:16 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\fiche patient\includes\config.php on line 10
+[17-Apr-2025 23:49:16 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\fiche patient\includes\config.php on line 11
+[17-Apr-2025 23:49:16 Europe/Berlin] PHP Warning:  session_name(): Session name cannot be changed when a session is active in C:\xampp\htdocs\fiche patient\includes\config.php on line 12
+[17-Apr-2025 23:49:16 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\fiche patient\includes\config.php on line 15
+[18-Apr-2025 00:30:05 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\fiche patient\pages\register.php on line 12
+[18-Apr-2025 00:31:08 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\fiche patient\pages\register.php on line 12
+[18-Apr-2025 00:31:24 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\fiche patient\pages\register.php on line 12
+[18-Apr-2025 00:32:01 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\fiche patient\pages\register.php on line 12
+[18-Apr-2025 00:32:13 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\fiche patient\pages\register.php on line 12
+[18-Apr-2025 00:35:12 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\fiche patient\pages\register.php on line 12
+[18-Apr-2025 00:35:17 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\fiche patient\pages\register.php on line 12
+[18-Apr-2025 00:36:07 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\fiche patient\pages\register.php on line 12
+[17-Apr-2025 22:39:02 UTC] DB Error: could not find driver
+[18-Apr-2025 00:42:09 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in C:\xampp\htdocs\fiche patient\pages\register.php on line 75
+[18-Apr-2025 00:42:16 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in C:\xampp\htdocs\fiche patient\pages\register.php on line 75
+[25-Apr-2025 01:13:11 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\fiche patient\pages\patient_details.php on line 61
+[25-Apr-2025 01:13:11 Europe/Berlin] PHP Warning:  Undefined array key "emergency_contact" in C:\xampp\htdocs\fiche patient\pages\patient_details.php on line 63
+[25-Apr-2025 01:13:18 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\fiche patient\pages\patient_details.php on line 61
+[25-Apr-2025 01:13:18 Europe/Berlin] PHP Warning:  Undefined array key "emergency_contact" in C:\xampp\htdocs\fiche patient\pages\patient_details.php on line 63
